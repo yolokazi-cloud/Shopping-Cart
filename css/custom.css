@@ -195,6 +195,7 @@ input[type=number]::-webkit-outer-spin-button {
 	border-radius: 5px;
 }
 .box{
+	margin-top: -5%;
 	margin-left:2%;
 	padding:10px;
 	width:30%;
