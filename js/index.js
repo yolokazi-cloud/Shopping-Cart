@@ -21,7 +21,7 @@ function closeCart() {
         title: 'Bananas',
         price: 30.99,
         instock:100,
-        image:'banana2.jpg',  
+        image:'./images/banana2.jpg',  
         
     },
 
@@ -30,35 +30,35 @@ function closeCart() {
         title: 'Apples',
         price: 25.99,
         instock:100,
-        image:'apples.jpg',
+        image:'./images/apples.jpg',
 
     },{
         id:2,
         title: 'Grapes',
         price: 27.99,
         instock:100,
-        image:'grapes.jpg',
+        image:'./images/grapes.jpg',
         
     },{
         id:3, 
         title: 'Carrots',
         price: 35.95,
         instock:100,
-        image:'carrots2.jpg',  
+        image:'./images/carrots2.jpg',  
        
     },{
         id:4,
         title: 'Fruit Combo',
         price: 99.99,
         instock:100,
-        image:'fruitcombo2.jpg',  
+        image:'./images/fruitcombo2.jpg',  
        
     },{
         id:5,
         title: 'Vegetables Combo',
         price: 111.99,
         instock:100,
-        image:'vegecombo.jpg', 
+        image:'./images/vegecombo.jpg', 
     },
  ];
 
