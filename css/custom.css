@@ -66,7 +66,8 @@ input[type=number]::-webkit-outer-spin-button {
 	width: 400px;
 	top: 0;
 	right: 0;
-	background-color: var(--white-color);
+	background-color: #f1ebe1;
+	box-shadow: -10px 0 15px #FFF7EC;
 	transform: translateX(110%);
 	transition: transform .5s ease-in-out;
 	
